@@ -1,0 +1,14 @@
+ROOM,R2,102,Deluxe,Sube A
+ROOM,R3,103,Suit,Sube A
+ROOM,R4,201,Standart,Sube B
+ROOM,R5,202,Deluxe,Sube B
+ROOM,R6,203,Suit,Sube B
+ROOM,R7,301,Standart,Sube C
+ROOM,R8,302,Penthouse,Sube C
+ROOM,R1,101,Standart,Sube A
+CUST,C3,Carol White,carol@mail.com
+CUST,C1,Alice Johnson,alice@mail.com
+CUST,C2,Bob Smith,bob@mail.com
+RES,RES001,R1,C1,13-05-2026,16-05-2026,ACTIVE
+RES,RES003,R3,C3,15-05-2026,18-05-2026,ACTIVE
+RES,RES002,R2,C2,03-05-2026,06-05-2026,COMPLETED
