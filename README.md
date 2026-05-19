@@ -6,7 +6,7 @@
 Veri yapilari odakli, saf Java SE ile yazilmis masaustu otel rezervasyon sistemi.  
 **GUI (Swing)** veya **terminal menusu** ile calisir. Hicbir dis kutuphane kullanilmamistir.
 
----
+--- 
 
 ## Kullanilan Veri Yapilari
 
