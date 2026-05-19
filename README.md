@@ -1,3 +1,4 @@
+BU PROJE SOYDAN KÜÇÜK ARNTA MOUMİN VE MERT ÜLKER TARAFINDAN GELİŞTİRİLMİŞTİR
 # E-Otel Rezervasyon Yonetim Sistemi
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)
